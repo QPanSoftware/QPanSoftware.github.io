@@ -2,6 +2,7 @@
 
 - APP: Application
 - AR: Augmented Reality
+- BOOK: Book
 - LIB: Library
 - MEM: In memory analysis
 - MPI: Message Passing Interface
