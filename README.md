@@ -3,6 +3,7 @@
 - APP: Application
 - AR: Augmented Reality
 - BOOK: Book
+- GPU: Graphics Processing Unit
 - LIB: Library
 - MEM: In memory analysis
 - MPI: Message Passing Interface
